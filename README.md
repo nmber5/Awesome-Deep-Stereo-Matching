@@ -1510,6 +1510,8 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **DreamStereo**: *"DreamStereo: Towards Real-Time Stereo Inpainting for HD Videos"*, Huang et al., *CVPR, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_DreamStereo_Towards_Real-Time_Stereo_Inpainting_for_HD_Videos_CVPR_2026_paper.html)] [[WebPage](https://huangyuan2020.github.io/DreamStereo/)] [[Bibtex](./bibliography/DreamStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DreamStereo%3A+Towards+Real-Time+Stereo+Inpainting+for+HD+Videos&btnG=)]
 
+* **StereoGenBench**: "StereoGenBench: A Synthetic Multi-Camera Benchmark for Stereo Generation under Controlled Baseline Regimes", Cui et al., *arXiv, 2026*. [[Paper](https://arxiv.org/abs/2605.23237)] [[Dataset](https://huggingface.co/datasets/stereo-dataset/stereo-dataset)] [[Bibtex](./bibliography/StereoGenBench.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoGenBench%3A+A+Synthetic+Multi-Camera+Benchmark+for+Stereo+Generation+under+Controlled+Baseline+Regimes&btnG=)]
+
 </details>
 
 <details open>
