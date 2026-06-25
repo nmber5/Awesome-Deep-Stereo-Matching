@@ -1,0 +1,7 @@
+@inproceedings{mehl2024stereo,
+  title={Stereo conversion with disparity-aware warping, compositing and inpainting},
+  author={Mehl, Lukas and Bruhn, Andr{\'e}s and Gross, Markus and Schroers, Christopher},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={4260--4269},
+  year={2024}
+}
