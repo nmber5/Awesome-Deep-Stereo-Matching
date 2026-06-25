@@ -4,3 +4,4 @@
   journal={arXiv preprint arXiv:2605.23237},
   year={2026}
 }
+

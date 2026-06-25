@@ -1512,6 +1512,7 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **StereoGenBench**: "StereoGenBench: A Synthetic Multi-Camera Benchmark for Stereo Generation under Controlled Baseline Regimes", Cui et al., *arXiv, 2026*. [[Paper](https://arxiv.org/abs/2605.23237)] [[Dataset](https://huggingface.co/datasets/stereo-dataset/stereo-dataset)] [[Bibtex](./bibliography/StereoGenBench.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoGenBench%3A+A+Synthetic+Multi-Camera+Benchmark+for+Stereo+Generation+under+Controlled+Baseline+Regimes&btnG=)]
 
+
 </details>
 
 <details open>
