@@ -1,0 +1,6 @@
+@article{wei2026geosereo,
+  title={GeoStereo: A Unified Stereo Geometry Estimation Framework for Disparity and Surface Normal},
+  author={Wei, Qizhe and Guo, Xianda and Xu, Shaocong and Li, Hong and Yang, Runyi and Zhao, Hao},
+  journal={ACM MULTIMEDIA},
+  year={2026}
+}
