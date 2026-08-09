@@ -1,0 +1,6 @@
+@article{jing2026liteanystereo_v2,
+  title={Lite Any Stereo V2: Faster and Stronger Efficient Zero-Shot Stereo Matching},
+  author={Jing, Junpeng and Zuo, Ronglai and Shen, Zhelun and Zhou, Shangchen and Potamias, Rolandos Alexandros and Zafeiriou, Stefanos and Mikolajczyk, Krystian and Deng, Jiankang},
+  journal={arXiv preprint arXiv:2606.24457},
+  year={2026}
+}
