@@ -1,0 +1,6 @@
+@inproceedings{wei2026aquastereo,
+  title={AquaStereo: Enabling Underwater Stereo Matching via Depth-Conditioned Diffusion and Geometry Self-Distillation},
+  author={Wei, Qizhe and Liang, Yingping and You, Shaodi and Fu, Ying},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2026}
+}

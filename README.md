@@ -1233,6 +1233,8 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
 * **StereoAdapter**: *"StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes"*, Wu et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.16415)] [[Code](https://github.com/AIGeeksGroup/StereoAdapter)] [[Bibtex](./bibliography/StereoAdapter.txt)] [[WebPage](https://aigeeksgroup.github.io/StereoAdapter/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoAdapter%3A+Adapting+Stereo+Depth+Estimation+to+Underwater+Scenes&btnG=)]
 
+* **AquaStereo**: *"AquaStereo: Enabling Underwater Stereo Matching via Depth-Conditioned Diffusion and Geometry Self-Distillation"*, Wei et al., *ECCV, 2026*. [[Paper](https://arxiv.org/pdf/2607.04303)] [[Code](https://github.com/qz-wei/AquaStereo)] [[Bibtex](./bibliography/AquaStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=AquaStereo%3A+Enabling+Underwater+Stereo+Matching+via+Depth-Conditioned+Diffusion+and+Geometry+Self-Distillation&btnG=)]
+
 * **RoSe**: *"RoSe: Robust Self-supervised Stereo Matching under Adverse Weather Conditions"*, Wang et al., *TCSVT, 2025*. [[Paper](https://arxiv.org/pdf/2509.19165)] [[Code](https://github.com/cocowy1/RoSe-Robust-Self-supervised-Stereo-Matching-under-Adverse-Weather-Conditions)] [[Bibtex](./bibliography/RoSe.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=RoSe%3A+Robust+Self-supervised+Stereo+Matching+under+Adverse+Weather+Conditions&btnG=)]
 
 
