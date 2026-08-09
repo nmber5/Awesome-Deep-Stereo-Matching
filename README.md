@@ -638,6 +638,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **TemporalStereo**: *"TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network"*, Zhang et al., *IROS, 2023*. [[Paper](https://arxiv.org/pdf/2211.13755.pdf)] [[Code](https://github.com/youmi-zym/TemporalStereo)]  [[Bibtex](./bibliography/TemporalStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=TemporalStereo:+Efficient+Spatial-Temporal+Stereo+Matching+Network&btnG=)]
 
+* **CIRNet**: *"CIRNet: Compact Iterative Refinement Network for Real-Time Stereo Matching"*, Wang et al., *IEEE Robotics and Automation Letters, 2026*. [[Paper](https://ieeexplore.ieee.org/document/10552115)] [[Bibtex](./bibliography/CIRNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=CIRNet%3A+Compact+Iterative+Refinement+Network+for+Real-Time+Stereo+Matching&btnG=)]
+
 
 </details>
 

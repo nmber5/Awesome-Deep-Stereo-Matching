@@ -1,0 +1,11 @@
+@article{wang2026cirnet,
+  title={CIRNet: Compact Iterative Refinement Network for Real-Time Stereo Matching},
+  author={Wang, Haopeng and Chen, Zhanhong and Zhang, Yu and Sun, Yanbiao and Zhu, Jigui},
+  journal={IEEE Robotics and Automation Letters},
+  volume={11},
+  issue={8},
+  pages={9175--9182},
+  month={August},
+  year={2026},
+  doi={10.1109/LRA.2026.370323}
+}
