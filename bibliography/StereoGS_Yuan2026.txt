@@ -1,0 +1,6 @@
+@inproceedings{yuan2026stereogs,
+  title={StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors},
+  author={Yuan, Wenhao and Ge, Yiyuan and Cai, Deli},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2026}
+}
