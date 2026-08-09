@@ -686,6 +686,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **BANet**: *"BANet: Bilateral Aggregation Network for Mobile Stereo Matching"*, Xu et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.03259)] [[Code](https://github.com/gangweix/BANet)] [[Bibtex](./bibliography/BANet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=BANet%3A+Bilateral+Aggregation+Network+for+Mobile+Stereo+Matching&btnG=)]
 
+* **LiteMatch**: *"LiteMatch: Lightweight Zero-Shot Stereo Matching via Cost Volume Stabilization"*, Khan et al., *ECCV, 2026*. [[Paper](https://mdraqibkhan.github.io/Litematch/assets/2606.31636v1.pdf)] [[Code](https://github.com/Mdraqibkhan/Litematch)] [[Bibtex](./bibliography/LiteMatch.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LiteMatch%3A+Lightweight+Zero-Shot+Stereo+Matching+via+Cost+Volume+Stabilization&btnG=)]
 
 * **Lite Any Stereo**: *"Lite Any Stereo: Efficient Zero-Shot Stereo Matching"*, Jing et al., *CVPR, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Jing_Lite_Any_Stereo_Efficient_Zero-Shot_Stereo_Matching_CVPR_2026_paper.pdf)] [[WebPage](https://tomtomtommi.github.io/LiteAnyStereo/)] [[Bibtex](./bibliography/LiteAnyStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Lite+Any+Stereo%3A+Efficient+Zero-Shot+Stereo+Matching&btnG=)]
 
